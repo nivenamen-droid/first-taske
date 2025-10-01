@@ -1,0 +1,13 @@
+b=15
+a=10
+c=20
+d=25
+print('prices of three items:', a+b+c)
+print('total budget:',a+b+c+d)
+A=5
+B=10
+C=15
+D=20
+print('total cost:',A+B+C+D)
+print('total cost<tatal budget')
+print('how much more is need:','total budget-total cost')
